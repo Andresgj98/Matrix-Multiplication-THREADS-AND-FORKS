@@ -1,2 +1,2 @@
 # Matrix-Multiplication-with-threads
-Matrix Multiplication with threads, c code, secuential and parallel
+Matrix Multiplication with threads, fork, c code, secuential and parallel
